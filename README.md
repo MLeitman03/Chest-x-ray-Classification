@@ -36,12 +36,14 @@
 ## Model metrics
 
 - Model error: the difference between the predicted output of the model and the actual output
-  
-![Screenshot 2024-07-07 at 6 25 23 PM](https://github.com/MLeitman03/Chest-x-ray-Classification/assets/128559284/1344bf12-a126-4c39-b293-162dceafe017)
+
+ <img width="648" alt="Screenshot 2024-07-07 at 6 48 36 PM" src="https://github.com/MLeitman03/Chest-x-ray-Classification/assets/128559284/e4e236c4-3b0e-41a4-8fcf-ef91e4193da7">
+
 
 - Model accuracy: the ratio of the number of correctly predicted instances to the total number of instances in the data
   
-![Screenshot 2024-07-07 at 6 26 05 PM](https://github.com/MLeitman03/Chest-x-ray-Classification/assets/128559284/e5d0467d-c756-4d13-96df-17fe963ff9b2)
+<img width="648" alt="Screenshot 2024-07-07 at 6 48 42 PM" src="https://github.com/MLeitman03/Chest-x-ray-Classification/assets/128559284/da541b11-977b-4e76-aaa5-9e6637106b7a">
+
 
 - Confusion matrix: shows the prediction summary in matrix form
 
