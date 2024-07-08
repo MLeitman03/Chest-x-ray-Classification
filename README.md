@@ -45,7 +45,8 @@
 
 - Confusion matrix: shows the prediction summary in matrix form
 
-![Screenshot 2024-07-07 at 6 27 17 PM](https://github.com/MLeitman03/Chest-x-ray-Classification/assets/128559284/61253902-a0a3-41aa-9b92-ec76d2495b57)
+<img width="566" alt="Screenshot 2024-07-07 at 6 47 37 PM" src="https://github.com/MLeitman03/Chest-x-ray-Classification/assets/128559284/3fc9db97-9b5f-4db0-a5d1-a1eed8e39b2f">
+
 
 
 
